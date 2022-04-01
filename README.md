@@ -16,3 +16,14 @@
 **Codelabs Link**
 
 https://codelabs-preview.appspot.com/?file_id=1Io-N36PhO5JUis_aqCi4UhwCioJfiY6MA5knnwNAoFQ#0
+
+
+**Contribution**
+
+Kashyap - 30%
+
+Greeshma - 30%
+
+Swathi - 30%
+
+Bala - 10%
