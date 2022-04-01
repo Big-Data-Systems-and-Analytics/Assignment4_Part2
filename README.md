@@ -18,7 +18,7 @@
 https://codelabs-preview.appspot.com/?file_id=1Io-N36PhO5JUis_aqCi4UhwCioJfiY6MA5knnwNAoFQ#6
 
 
-**Streamlit App*
+**Streamlit App**
 
 https://share.streamlit.io/swathisharma20/assignment4.2_streamlit2.0/Streamlit_Frontend/app2.py
 
