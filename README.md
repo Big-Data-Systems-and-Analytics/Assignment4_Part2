@@ -25,10 +25,10 @@ https://share.streamlit.io/swathisharma20/assignment4.2_streamlit2.0/Streamlit_F
 
 **Contribution**
 
-Kashyap - 25%
+Kashyap - 30%
 
-Greeshma - 25%
+Greeshma - 30%
 
-Swathi - 25%
+Swathi - 30%
 
-Bala - 25%
+Bala - 10%
